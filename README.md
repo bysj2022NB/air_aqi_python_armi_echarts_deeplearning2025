@@ -1,0 +1,2 @@
+# air_aqi_python_armi_echarts_deeplearning2025
+计算机毕业设计吊炸天Python+DeepSeek-R1大模型空气质量预测分析 空气质量可视化 空气质量爬虫  机器学习 深度学习 大数据毕业设计
